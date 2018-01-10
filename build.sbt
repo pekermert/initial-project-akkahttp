@@ -1,4 +1,4 @@
-name := "212-akkahttp"
+name := "akkahttp"
 
 version := "0.1"
 
